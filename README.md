@@ -14,6 +14,6 @@ description: Welcome, you can find here documentation for my scripts.
 2. Open ticket
 3. And write me what script you want to buy
 
-#### All my scripts you can find on my server Hawai RP
+#### All my script you can test on my roleplay server
 
 [discord.gg/2k7BNJVdZm](https://discord.gg/2k7BNJVdZm)
